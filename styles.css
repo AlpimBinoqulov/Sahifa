@@ -1,0 +1,109 @@
+body{
+    background-color: rgb(65, 65, 65);
+    font-size: large;
+    text-align: center;
+    align-items: center;
+}
+.headerClass{
+    
+    text-align: center;
+    background-color: brown;
+    padding: 2em;
+}
+.headerClass:hover{
+    background-color: gold;
+}
+.sahifa{
+    border-raduis: 50%;
+    color: gold;
+    display: inline-block;
+    padding: 1em;
+    width: 45em;
+    background-color: cadetblue;
+    
+    font-size: 20px;
+    
+}
+.sahifa:hover{
+    background-color: green;
+    color: aliceblue;
+    text-align: center;
+}
+
+.div1Class{
+    background-color: rgb(42, 149, 165);
+    display: inline-block;
+    width: 25em;
+    height: 30em;
+    margin-top: 1em;
+   
+    border-radius: 20%;
+    background-origin: padding-box;
+    
+}
+.div1Class:hover{
+    transition: all;
+}
+.logo{
+    color: aqua;
+    align-items: center;
+    text-align: center;
+}
+
+.logo .logopng{
+   margin-top: 1em;
+    border-radius: 50%;
+    width: 8em;
+    height: 8em;
+}
+.kirish{
+    display: block;
+    font-size: 25px;
+    color: beige;
+    margin: 1em;
+}
+.divLogin{
+    margin: 3px;
+}
+.divParol{
+    margin: 3px;
+}
+.btn1{
+
+    font-size: 15px;
+    font-size: bold;
+    text-align: center;
+    border-color: rgb(24, 155, 113);
+    background-color: rgb(24, 158, 89);
+    margin-top: 2em;
+    margin-left: 10%;
+    color: aqua;
+    width: 10em;
+    height: 3em;
+    margin-bottom: 2em;
+    border-radius: 15%;
+
+}
+.btn1:hover{
+    transition-duration: 0.3ms;
+    background-color: green;
+    color: gold;
+    transform: matrix(15);
+}
+.link{
+    margin-right: 2em;
+    display: inline-block;
+    background-color: aliceblue;
+}
+.rClass{
+    text-decoration: none;
+    margin-left: 1em;
+}
+.link1{
+    margin-left: 1em;
+    display: inline-block;
+    background-color: aliceblue;
+}
+.parolClass{
+    text-decoration: none;
+}
